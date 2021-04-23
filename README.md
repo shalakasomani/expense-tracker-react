@@ -1,3 +1,10 @@
+# Expense Tracker
+This is an Expense Tracker. It uses functional components with hooks and the context API
+
+https://user-images.githubusercontent.com/9452651/115844381-65094a00-a43d-11eb-8b7f-c10f512806e9.mp4
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
